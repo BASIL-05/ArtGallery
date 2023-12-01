@@ -3,10 +3,10 @@ a {
     text-decoration: none;
     color:gray;
 }
-a:hover{
+/* a:hover{
     color: black !important;
     text-decoration: none;
-}
+} */
 
 img{
     border-radius: 30px;
@@ -23,7 +23,7 @@ img:hover{
 
 
 .navbar{
-    background:white;
+    background: rgb(2,0,36);
     padding:20px;
     padding-top:10px;
     text-align: right;
